@@ -3,10 +3,9 @@ form{
     display: block;
     background-color: #fff;
     box-shadow: 1px 1px 3px 2px #ddd;
-    margin:40px auto;
-    max-width: 400px;
-    max-height: 500px;
-    padding: 20px;
+    margin:40px 0px 100px 550px;
+    max-width: 500px;
+    max-height: 400px;
 
 }
 
@@ -17,3 +16,4 @@ form input, textarea{
     margin: 10px auto;
     padding: 10px;
 }
+
