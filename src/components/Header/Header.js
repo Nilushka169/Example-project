@@ -12,8 +12,9 @@ function Header() {
         <div className="h-menu flexCenter">
           <a href="">Home</a>
           <a href="">About us</a>
+          <a href="">Banner</a>
+          <a href="">Contact</a>
           <Link to="Banner" spy={true} smooth={true} offset={50} duration={700}>Banner</Link>
-          <a href="">Contact Us</a>
           <a href="">Get started</a>
         </div>
       </div>
