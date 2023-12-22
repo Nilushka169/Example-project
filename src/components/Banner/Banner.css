@@ -3,14 +3,14 @@
 }
 
 .test1{
-    height: 47vh;
+    height: 50vh;
 }
 .banner__container .container {
     display: flex;
     gap: 4rem;
     justify-content: center;
     align-items: center;
-    padding: 4rem 0;
+    padding: 4rem;
 }
 
 .banner__container h1 {

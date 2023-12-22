@@ -3,15 +3,21 @@
     grid-template-columns: 1fr 1fr;
     gap: 7rem;
     
+    
 }
 
 .about__container {
     position: relative;
-    
-    
 }
+.about__containerFirst{
+    height: 100vh;
+    padding-top: 100px;
+}
+    
+
 .aboutjs{
     height: 100vh;
+
 }
 
 .test2{
