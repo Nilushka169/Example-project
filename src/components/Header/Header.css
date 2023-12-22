@@ -2,15 +2,14 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
     justify-content: space-between;
-    background-color: black;
+    color: rgb(209, 206, 206);
 }
 
 
 .h-wrapper{
     display: flex;
-    background: var(--black);
-    color:white;
-    
+    background: black;
+    color:white; 
 }
 
 .h-menu{
