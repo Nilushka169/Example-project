@@ -3,7 +3,10 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10rem;
 }
-
+.test1{
+    height: 50vh;
+    padding-top: 1px;
+}
 
 .footer__container ul li {
     margin: 2rem 0;
