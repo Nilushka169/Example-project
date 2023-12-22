@@ -3,10 +3,9 @@ form{
     display: block;
     background: var(--linear-bg);
     box-shadow: 1px 1px 3px 2px #ddd;
-    margin:40px auto;
-    max-width: 400px;
-    max-height: 500px;
-    padding: 20px 40px;
+    margin:40px 0px 100px 550px;
+    max-width: 500px;
+    max-height: 400px;
 
 }
 
@@ -37,5 +36,3 @@ form button{
     color: #fff;
     cursor: pointer;
 }
-
-
