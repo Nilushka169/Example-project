@@ -1,0 +1,28 @@
+.footer__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10rem;
+}
+
+
+.footer__container ul li {
+    margin: 2rem 0;
+    
+}
+
+.footer__socials li {
+    display: inline-block;
+    margin-right: 1rem !important;
+    padding: 2px;
+}
+
+.footer__socials li a {
+    font-size: 1.25rem;
+}
+
+/* ================ MEDIA QUERIES (SMALL DEVICES) ============= */
+@media screen and (max-width: 600px) {
+    .footer__container {
+        grid-template-columns: 1fr;
+    }
+}
