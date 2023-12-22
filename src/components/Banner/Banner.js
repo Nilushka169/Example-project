@@ -3,7 +3,7 @@ import "./Banner.css";
 function Banner() {
 
         return (
-            <div className='test1'>
+            <div className='test1' id="Banner">
             <section id="banner" className="banner__container">
                 <div className="container">
                     <h1>

@@ -7,11 +7,18 @@
 
 
 .h-wrapper{
-  display: flex;
+    display: flex;
     background: var(--black);
     color:white;
-    height: 100vh;
-    top: -100px;
+    
+}
+
+.h-menu{
+  gap: 2rem;
+}
+
+.h-menu:hover{
+  cursor: pointer;
 }
 
 .flexCenter{
