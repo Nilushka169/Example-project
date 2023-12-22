@@ -10,9 +10,7 @@ function About() {
 
   return (
     <>
-      <section className="aboutjs">
-        <div className="test2">
-          <div className="test1">
+      <div className="about__containerFirst">
             <section className="about__container">
               <div className="container">
                 <div>
@@ -91,9 +89,8 @@ function About() {
                 </div>
               </div>
             </section>
-          </div>
-        </div>
-      </section>
+            </div>
+          
     </>
   );
 }
