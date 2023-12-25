@@ -72,9 +72,9 @@ a:hover {
   position: relative;
 }
 
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 
 body {
   font-family: "Poppins";
