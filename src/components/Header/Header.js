@@ -13,8 +13,8 @@ function Header() {
           <a href="">Home</a>
           <a href="">Our projects</a>
           <a href="">About us</a>
-          <Link to="Contact" spy={true} smooth={true} offset={-40} duration={700}>Contact</Link>
-          <Link to="Banner" spy={true} smooth={true} offset={50} duration={700}>Banner</Link>
+          <Link to="Contact" spy={true} smooth={true} offset={-40} duration={800}>Contact</Link>
+          <Link to="Banner" spy={true} smooth={true} offset={50} duration={800}>Banner</Link>
         </div>
       </div>
     </section>
